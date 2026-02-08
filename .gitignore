@@ -1,0 +1,15 @@
+# Pastas de dependências
+node_modules/
+vendor/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Credenciais e variáveis de ambiente
+.env
+*.pem
+
+# Builds
+dist/
+*.log
